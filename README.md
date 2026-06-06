@@ -1,11 +1,19 @@
 # Railway Reservation Form
 
-This is a simple Railway Reservation System project made using HTML, CSS.
+A simple Railway Reservation Form developed using HTML and CSS.
 
-## Features:
-- Ticket booking form
-- User input validation
-- Simple UI design
+## Features
+- Passenger Details Form
+- Train Journey Information
+- Responsive Design
+- User-Friendly Interface
 
-## Author:
-Riya0827
+## Technologies Used
+- HTML5
+- CSS3
+
+## Learning Outcome
+This project was created while learning HTML Forms and CSS styling.
+
+## Author
+Riya Tyagi
